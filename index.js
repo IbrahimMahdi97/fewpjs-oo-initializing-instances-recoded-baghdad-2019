@@ -1,5 +1,5 @@
 // Write your code here
-class Breakfasat {
+class Breakfast {
     constructor (food, drink) {
         this.food = food;
         this.drink = drink;
@@ -23,4 +23,3 @@ class Dinner {
     }
 }
 
-let breakfast = new Breakfasat ("egg", "milk")
