@@ -22,3 +22,5 @@ class Dinner {
         this._dessert = dessert;
     }
 }
+
+let breakfast = new Breakfasat ("egg", "milk")
